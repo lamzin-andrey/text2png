@@ -10,7 +10,7 @@ This is configurable library for create png image from text on the background pn
 
 or
 
-`git clone ...`
+`git clone https://github.com/lamzin-andrey/text2png`
 
 ## Usage
 
@@ -72,7 +72,7 @@ $o->pngResponse(); //Content-Type: image/png and image bytes.
 
 или
 
-`git clone ...`
+`git clone https://github.com/lamzin-andrey/text2png`
 
 ## Использование
 
